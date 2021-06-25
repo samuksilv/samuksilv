@@ -1,9 +1,10 @@
-<div>
-  <a href="https://github.com/samuksilv">
+<div >
+  <a style="display:flex; justify-content: space-around; align-itens: center;" href="https://github.com/samuksilv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuksilv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuksilv&layout=compact&langs_count=16&theme=radical"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: flex; justify-content: space-around; margin: 1rem 0;" ><br>
   <img align="center" alt="Samuel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Samuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="samuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
