@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/samuksilv/samuksilv/raw/main/dev_productivity.svg?raw=true" width="300"/>
+<img align="right" src="https://github.com/samuksilv/samuksilv/raw/main/dev_productivity.svg?raw=true" width="280"/>
 
 <h1 align="center">Samuel Silva de Carvalho</h1>
 
