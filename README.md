@@ -16,6 +16,8 @@
 ### 🎓 Formação acadêmica
   - FATEC RIBEIRÃO PRETO - Análise e Desenvolvimento de Sistemas
 
+##
+
 ### 🔬 Tecnologias que trabalho:
 
 <p align="left" >
