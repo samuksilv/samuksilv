@@ -1,6 +1,7 @@
-<h1 align="center">Samuel Silva de Carvalho</h1>
 
 <img align="right" src="https://github.com/samuksilv/samuksilv/raw/main/dev_productivity.svg?raw=true" width="200"/>
+
+<h1 align="center">Samuel Silva de Carvalho</h1>
 
 <p align="center" >  
   <a href="mailto:samuel.silv.carvalho@gmail.com">
