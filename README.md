@@ -1,5 +1,6 @@
 <h1 align="center">Samuel Silva de Carvalho</h1>
 
+<img align="right" src="https://github.com/samuksilv/samuksilv/raw/main/undraw_developer_activity_bv83.svg?raw=true" width="300"/>
 
 <p align="center" >  
   <a href="mailto:samuel.silv.carvalho@gmail.com">
