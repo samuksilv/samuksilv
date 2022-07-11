@@ -15,6 +15,7 @@
 
 ### 🎓 Formação acadêmica
   - FATEC RIBEIRÃO PRETO - Análise e Desenvolvimento de Sistemas
+  - XP Educação - MBA Arquitetura de Software e Soluções
 
 
 ### 🔬 Tecnologias que trabalho:
